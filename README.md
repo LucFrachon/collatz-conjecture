@@ -41,7 +41,7 @@ No such sequence has been found.
 
 ## How to use it:
 
-Theris only one file (`collatz_conjecture.py`). Execute it on your terminal instance or your IDE. You specify the upper bound of the sampling interval as 
+Ther is only one file (`collatz_conjecture.py`). Execute it on your terminal instance or your IDE. You specify the upper bound of the sampling interval as 
 well as the number of integers to sample.
 The program then samples this number of integers from the interval [1, upper bound] and for each, runs the collatz algorithm 
 until 1 is reached.[1](##notes)
